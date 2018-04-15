@@ -35,6 +35,9 @@
 				case "about":
 				$content = "build/content/about.php";
 				break;
+				case "contact":
+				$content = "build/content/contact.php";
+				break;
 			}
 		?>
 		

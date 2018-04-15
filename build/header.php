@@ -18,6 +18,7 @@
 		<li><a href="index.php?a=home">Home</a></li>
 		<li><a href="index.php?a=course">Course</a></li>
 		<li><a href="index.php?a=about">About</a></li>
+		<li><a href="index.php?a=contact">Contact</a></li>
 	  </ul>
 	</div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
