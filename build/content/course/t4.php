@@ -16,7 +16,8 @@
 	<h3>Direct impact of security breach on corporate asset base and goodwill.</h3>
 	<p align="justify">
 		Para ethical hacker sangan dilarang untuk menyebarkan / membocorkan maupun merusak data maupun property dari suatu perusahaan 
-		sesuai dengan elemen – elemen dari keamanan informasi.
+		sesuai dengan elemen – elemen dari keamanan informasi. Serta ethical hacker juga harus dapat melakukan penetration test 
+		terhadap asset utama dan goodwill dari perusahaan agar kebocoran informasi penting tidak terjadi.
 	</p>
 	<br>
 	<h3>It is difficult to centralize security in a distributed computing environment.</h3>
