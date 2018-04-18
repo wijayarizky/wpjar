@@ -36,7 +36,7 @@
 				<p class="card-text" align="justify">Beberapa hal mengenai Debian OS berdasarkan debian handbook by Raphael Hertzog dan Roland Mas.</p>
 				<div class="d-flex justify-content-between align-items-center">
 					<div class="btn-group">
-						<button type="button" class="btn btn-primary">View</button>
+						<a href="index.php?a=course&cs=t1"><button type="button" class="btn btn-primary">View</button></a>
 					</div>
 				</div>
 			</div>
@@ -50,7 +50,7 @@
 				<p class="card-text" align="justify">Contoh routing static router cisco dan penerapan metric pada masing - masing router menggunakan cisco packet tracert.</p>
 				<div class="d-flex justify-content-between align-items-center">
 					<div class="btn-group">
-						<button type="button" class="btn btn-primary">View</button>
+						<a href="index.php?a=course&cs=t2"><button type="button" class="btn btn-primary">View</button></a>
 					</div>
 				</div>
 			</div>
@@ -64,7 +64,7 @@
 				<p class="card-text" align="justify">Contoh routing static router cisco dengan pembaian IP yang telah disubnet menggunakan cisco packet tracert.</p>
 				<div class="d-flex justify-content-between align-items-center">
 					<div class="btn-group">
-						<button type="button" class="btn btn-primary">View</button>
+						<a href="index.php?a=course&cs=t3"><button type="button" class="btn btn-primary">View</button></a>
 					</div>
 				</div>
 			</div>
@@ -78,15 +78,13 @@
 				<p class="card-text" align="justify">Penjelasan Network seurity Challenges berdasarkan pada modul 1 CEH (Certificate Ethical Hacker) version 7 by EC - Council.</p>
 				<div class="d-flex justify-content-between align-items-center">
 					<div class="btn-group">
-						<button type="button" class="btn btn-primary">View</button>
+						<a href="index.php?a=course&cs=t4"><button type="button" class="btn btn-primary">View</button></a>
 					</div>
 				</div>
 			</div>
 		 </div>
 	</div>
 </div>
-
-<hr class="featurette-divider">
 
 
 

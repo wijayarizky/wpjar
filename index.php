@@ -40,15 +40,19 @@
 				break;
 			}
 		?>
+		<!-- end content action -->
 		
 		<!-- content view -->
 		<div class="container">
+			<hr class="featurette-divider">
 		<?php 
 			if($content!=""){
 				include $content ;
 			}
 		?>
+			<hr class="featurette-divider">
 		</div>
+		<!-- end content view -->
 	</body>
 	<?php include 'build/footer.php' ?>
 </html>
