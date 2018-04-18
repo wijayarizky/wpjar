@@ -27,5 +27,7 @@
 <!-- content view -->
 <div class="container">
 	<?php include $content; ?>
+	<br>
+	<a href="index.php"><button type="button" class="btn btn-primary">Back</button></a>
 </div>
 <!-- end content view -->
