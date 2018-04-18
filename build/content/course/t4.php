@@ -38,8 +38,9 @@
 	<h3>Increased number of network-based applications.</h3>
 	<p align="justify">
 		Dengan meningkatnya aplikasi berbasis jaringan, kendala pada keamanan pun menjadi semakin meningkat dikarenakan pngguna dari 
-		aplikasi berbasis jaringan juga semakin banyak dan disini ethical hacker diharapkan dapat menganalisa banyak celah yang 
-		berbeda – beda serta menemukan solusi yang tepat untuk mengatasi masalah keamanan pada setiap system tersebut.
+		aplikasi berbasis jaringan juga semakin banyak serta banyak pembuat aplikasi yang belum mengetes keamanan dari kode program 
+		yang dibuatnya maka disini ethical hacker diharapkan dapat menganalisa banyak celah yang ber-beda – beda serta menemukan 
+		solusi yang tepat untuk mengatasi masalah keamanan pada setiap system tersebut.
 	</p>
 	<br>
 	<h3>Increasing complexity of computer infrastructure administration and management.</h3>
