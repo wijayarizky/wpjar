@@ -18,6 +18,12 @@
 		case "t4":
 		$content = "build/content/course/t4.php";
 		break;
+		case "t5":
+		$content = "build/content/course/t5.php";
+		break;
+		case "t6":
+		$content = "build/content/course/t6.php";
+		break;
 		default :
 		$content = "build/content/course/def.php";
 	}

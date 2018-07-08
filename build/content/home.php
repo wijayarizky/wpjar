@@ -84,6 +84,34 @@
 			</div>
 		 </div>
 	</div>
+	<div class="col-md-4">
+		 <div class="card mb-4 box-shadow" style="border: 1px solid; border-radius: .25rem; margin-bottom: 1.5rem;">
+			<img class="card-img-top" src="assets/img/card/1.jpg" alt="Card image cap">
+			<div class="card-body" style="padding: 1.25rem; word-wrap: break-word;">
+				<h4 class="card-title"><b>Tugas 5</b></h4>
+				<p class="card-text" align="justify">Perbedaan antara Worm, Virus, Trojan dan Malware serta penjelasan mengenai 7 hacking step dan RAT (Remote Access Trojan)</p>
+				<div class="d-flex justify-content-between align-items-center">
+					<div class="btn-group">
+						<a href="index.php?a=course&cs=t5"><button type="button" class="btn btn-primary">View</button></a>
+					</div>
+				</div>
+			</div>
+		 </div>
+	</div>
+	<div class="col-md-4">
+		 <div class="card mb-4 box-shadow" style="border: 1px solid; border-radius: .25rem; margin-bottom: 1.5rem;">
+			<img class="card-img-top" src="assets/img/card/1.jpg" alt="Card image cap">
+			<div class="card-body" style="padding: 1.25rem; word-wrap: break-word;">
+				<h4 class="card-title"><b>Tugas 6</b></h4>
+				<p class="card-text" align="justify">Jawaban dari soal UAS D4 LJTI 2018</p>
+				<div class="d-flex justify-content-between align-items-center">
+					<div class="btn-group">
+						<a href="index.php?a=course&cs=t6"><button type="button" class="btn btn-primary">View</button></a>
+					</div>
+				</div>
+			</div>
+		 </div>
+	</div>
 </div>
 
 
